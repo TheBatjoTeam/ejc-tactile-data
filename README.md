@@ -31,6 +31,6 @@ This repo contains a folder for each city. Inside each folder you will find seve
 5. `cityname-base.stl`: file with an extruded square base for the map.
 6. `cityname-city-map.stl`: file with the extruded 3D boundaries of the city.
 7. `cityname-airbnb3d.stl`: file with the 3D model of the hexagonal maps, with the height of each hexagon defined by the number of entire apartment listings in that area.
-8. `gcode-airbnb-3dprint.gcode`: file that can be sent to the 3D printer for production.
+8. `cityname-airbnb-3dprint.gcode`: file that can be sent to the 3D printer for production. **Note: this specific file has been crafted specifically for the Prusa i3 MK3 and is guaranteed to work with this machine only. For all other cases, please follow the tutorial specific to your machine model, get in touch with your local Fab Lab or Hacker space, or contact the authors.**
 
 ![gif](gif.png) 
