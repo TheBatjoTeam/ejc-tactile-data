@@ -32,3 +32,5 @@ This repo contains a folder for each city. Inside each folder you will find seve
 6. `cityname-city-map.stl`: file with the extruded 3D boundaries of the city.
 7. `cityname-airbnb3d.stl`: file with the 3D model of the hexagonal maps, with the height of each hexagon defined by the number of entire apartment listings in that area.
 8. `gcode-airbnb-3dprint.gcode`: file that can be sent to the 3D printer for production.
+
+![gif](gif.png) 
