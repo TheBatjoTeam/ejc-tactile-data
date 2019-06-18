@@ -19,7 +19,7 @@ We are going to design the maps separately, so that they can be presented indepe
 ![small multiples](small-multiples.png) 
 
 
-*The design and fabrication of these maps have been developed by [Chi ha ucciso il Conte?](http://chihauccisoilconte.eu/), and Italian designer and expert in digital fabrication and open source software.*
+*The design and fabrication of these maps have been developed by [Chi ha ucciso il Conte?](http://chihauccisoilconte.eu/), an Italian designer and expert in digital fabrication and open source software.*
 
 ## In this repo
 This repo contains a folder for each city. Inside each folder you will find several files:   
